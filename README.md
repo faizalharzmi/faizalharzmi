@@ -59,4 +59,6 @@ Further links will be added as each project reaches a documented, reproducible, 
 
 ## Contact
 
-Public contact links will be added here once the verified LinkedIn, email, and portfolio URLs are confirmed.
+- [LinkedIn](https://www.linkedin.com/in/faizal-harzmi-63bb1499/)
+- [Email](mailto:faizal.harzmi@gmail.com)
+- Portfolio: coming soon
