@@ -40,7 +40,7 @@ The following reflects my professional focus and the technologies I am actively 
 I am curating a small set of clean-room reference projects and architecture case studies. They are designed to show engineering judgement without exposing proprietary employer code or confidential systems.
 
 - **[Telecom provisioning reference](https://github.com/faizalharzmi/telecom-provisioning-reference)** — an original example of idempotent workflows, provider adapters, retries, audit events, and failure recovery.
-- **Laravel platform reference** — a production-style API and SaaS foundation with authentication, authorisation, queues, MySQL, Redis, Docker, and tests.
+- **[Laravel platform reference](https://github.com/faizalharzmi/laravel-platform-reference)** — a production-style multi-tenant API foundation with authentication, RBAC, MySQL, Docker, and tests.
 - **System design case studies** — concise explanations of API architecture, integrations, reliability, and legacy modernisation trade-offs.
 
 Further links will be added as each project reaches a documented, reproducible, and tested milestone.
