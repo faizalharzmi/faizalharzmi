@@ -41,6 +41,7 @@ I am curating a small set of clean-room reference projects and architecture case
 
 - **[Telecom provisioning reference](https://github.com/faizalharzmi/telecom-provisioning-reference)** — an original example of idempotent workflows, provider adapters, retries, audit events, and failure recovery.
 - **[Laravel platform reference](https://github.com/faizalharzmi/laravel-platform-reference)** — a production-style multi-tenant API foundation with authentication, RBAC, MySQL, Docker, and tests.
+- **[Production Docker stack](https://github.com/faizalharzmi/production-docker-stack)** — a reproducible PHP-FPM/Nginx/MySQL/Redis stack with health checks, persistence, and a worker boundary.
 - **System design case studies** — concise explanations of API architecture, integrations, reliability, and legacy modernisation trade-offs.
 
 Further links will be added as each project reaches a documented, reproducible, and tested milestone.
