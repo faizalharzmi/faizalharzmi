@@ -37,8 +37,6 @@ The following reflects my professional focus and the technologies I am actively 
 
 ## Selected Engineering Work
 
-I am curating a small set of clean-room reference projects and architecture case studies. They are designed to show engineering judgement without exposing proprietary employer code or confidential systems.
-
 - **[Telecom provisioning reference](https://github.com/faizalharzmi/telecom-provisioning-reference)** — an original example of idempotent workflows, provider adapters, retries, audit events, and failure recovery.
 - **[Laravel platform reference](https://github.com/faizalharzmi/laravel-platform-reference)** — a production-style multi-tenant API foundation with authentication, RBAC, MySQL, Docker, and tests.
 - **[Production Docker stack](https://github.com/faizalharzmi/production-docker-stack)** — a reproducible PHP-FPM/Nginx/MySQL/Redis stack with health checks, persistence, and a worker boundary.
