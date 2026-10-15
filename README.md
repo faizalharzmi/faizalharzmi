@@ -38,12 +38,12 @@ The following reflects my professional focus and the technologies I am actively 
 ## Selected Engineering Work
 
 - **[FreeLib AI](https://github.com/faizalharzmi/freelib-ai)** — a Django book discovery app that combines catalog providers with AI-assisted topic relevance filtering. [Live site](https://freelib.cerdaslab.com).
-- **[Telecom provisioning reference](https://github.com/faizalharzmi/telecom-provisioning-reference)** — an original example of idempotent workflows, provider adapters, retries, audit events, and failure recovery.
+- **[Telecom provisioning reference](https://github.com/faizalharzmi/telecom-provisioning-reference)** — an original example of idempotent workflows, provider adapters, retries, audit events, and failure recovery. [Live site](https://atomic.atomtelecom.com.au).
 - **[Laravel platform reference](https://github.com/faizalharzmi/laravel-platform-reference)** — a production-style multi-tenant API foundation with authentication, RBAC, MySQL, Docker, and tests.
 - **[Production Docker stack](https://github.com/faizalharzmi/production-docker-stack)** — a reproducible PHP-FPM/Nginx/MySQL/Redis stack with health checks, persistence, and a worker boundary.
 - **[DebtGuard](https://github.com/faizalharzmi/DebtGuard)** — a TypeScript CLI for deterministic engineering guardrails across AI coding agents, security, scope, and simplicity checks.
 - **[System design case studies](https://github.com/faizalharzmi/system-design-case-studies)** — architecture trade-offs for scalable APIs, multi-tenant SaaS, provisioning, and legacy modernisation.
-- **[Education SaaS case study](https://github.com/faizalharzmi/education-saas-case-study)** — clean-room assessment, reporting, privacy, and AI-assisted marking boundaries.
+- **[Education SaaS case study](https://github.com/faizalharzmi/education-saas-case-study)** — clean-room assessment, reporting, privacy, and AI-assisted marking boundaries. [Live site](https://kemasukan.cerdaslab.com).
 
 Further links will be added as each project reaches a documented, reproducible, and tested milestone.
 
